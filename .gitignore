@@ -16,3 +16,4 @@ build/webpack.dev.config.js
 nohup.out
 npm-debug.log
 build/env.js
+mn/*.jpg
